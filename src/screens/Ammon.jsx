@@ -3,7 +3,7 @@ const Ammon = () => {
     <div 
       style={{textAlign: 'center', padding: 20}}
     >
-      This is Ammon's page
+      This is Ammon's page 
     </div>
   )
 }
